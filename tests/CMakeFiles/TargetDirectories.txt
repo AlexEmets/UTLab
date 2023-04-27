@@ -1,0 +1,4 @@
+/home/oleksandryemets/Documents/University/UnitTestsLab1/tests/CMakeFiles/NonLinearEquations.dir
+/home/oleksandryemets/Documents/University/UnitTestsLab1/tests/CMakeFiles/test.dir
+/home/oleksandryemets/Documents/University/UnitTestsLab1/tests/CMakeFiles/edit_cache.dir
+/home/oleksandryemets/Documents/University/UnitTestsLab1/tests/CMakeFiles/rebuild_cache.dir
